@@ -1,1 +1,1 @@
-# Termux-Rainbowv2
+# Termux-Rainbowv2 Новое оформление
